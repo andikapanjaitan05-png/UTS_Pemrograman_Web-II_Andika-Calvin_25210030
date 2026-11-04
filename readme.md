@@ -3,6 +3,11 @@
 Aplikasi toko berbasis PHP dengan pola MVC.
 Praktek Pemrograman Web 2 - Ujian Tengah Semester (UTS).
 
+## Identitas Mahasiswa
+- Nama : Andika Calvin Panjaitan
+- Nim : 25210030
+- Prodi : Komputerisasi Akuntansi
+
 ## Fitur
 - Login admin (session + password_hash)
 - Dashboard admin dengan tampilan Bootstrap 5
