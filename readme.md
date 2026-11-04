@@ -33,7 +33,7 @@ PHP 8 (MVC native), MySQL (PDO), Bootstrap 5, XAMPP
 2. Pastikan database `mvc_mystore` sudah ada (tabel users, categories, products).
 3. Di terminal VS Code:
    C:\xampp\php\php.exe -S localhost:8000 -t public
-4. Buka(http://localhost:8000
+4. Buka(http://localhost:8000)
 
 ## Akun Admin
 - Username: Calvin
