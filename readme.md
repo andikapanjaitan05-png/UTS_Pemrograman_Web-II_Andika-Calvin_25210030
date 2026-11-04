@@ -31,8 +31,8 @@ PHP 8 (MVC native), MySQL (PDO), Bootstrap 5, XAMPP
 4. Buka http://localhost:8000/login
 
 ## Akun Admin
-- Username: <Calvin>
-- Password: <admin123>
+- Username: Calvin
+- Password: admin123
 
 ## Alur Penggunaan
 1. Login di /login, lalu otomatis masuk ke dashboard /admin.
