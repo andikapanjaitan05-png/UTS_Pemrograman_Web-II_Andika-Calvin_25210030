@@ -1,0 +1,1 @@
+console.log('mY Store siap.');
