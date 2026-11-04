@@ -1,4 +1,4 @@
-# My Store
+# My Store - UTS (Admin Login & CRUD Produk)
 
 Aplikasi toko berbasis PHP dengan pola MVC.
 Praktek Pemrograman Web 2 - Ujian Tengah Semester (UTS).
